@@ -1,0 +1,15 @@
+#Pasos para ejecutar el archivo contorno y que no de error inicialmente
+1.- Ejecutar el archivo python.
+2.- Crear una linea llamada " print("directorio actual:", os.getcwd()) " esta linea permite saber donde nos encontramos actualmente(Directorio).
+3.- Debemos revisar en la consola que la ubicacion sea la del archivo que queremos ejecutar.
+4.- Una vez validamos esto podemos ejecutar el archivo desde el boton play o desde las consola CMD o la consola dew visual studio.
+5.- Recordar que debe hacerse un ctrl + c para cerrar la consola y volver a ejecutar para validar que se estan tomando los cambios realizados.
+
+#
+# To activate this environment, use
+#
+#     $ conda activate reconocimientoFacialEnv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
